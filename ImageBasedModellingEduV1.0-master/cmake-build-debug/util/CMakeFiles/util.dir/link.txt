@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libutil.a  CMakeFiles/util.dir/arguments.cc.o CMakeFiles/util.dir/file_system.cc.o CMakeFiles/util.dir/ini_parser.cc.o CMakeFiles/util.dir/system.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libutil.a

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -fPIC -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/task2_test_math_basic.dir/class2_test_math_basic.cc.o  -o task2_test_math_basic ../../util/libutil.a ../../core/libcore.a ../../util/libutil.a /usr/local/lib/libpng.dylib /usr/lib/libz.dylib /usr/local/lib/libjpeg.dylib /usr/local/lib/libtiff.dylib 

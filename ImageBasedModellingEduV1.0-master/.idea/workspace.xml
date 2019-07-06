@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ImageBasedModellingEdu" targetName="task5_dmrecon_multi_views" />
+      <config projectName="ImageBasedModellingEdu" targetName="gco" />
+      <config projectName="ImageBasedModellingEdu" targetName="task1_test_features" />
+      <config projectName="ImageBasedModellingEdu" targetName="features" />
+      <config projectName="ImageBasedModellingEdu" targetName="task1_test_matching" />
+      <config projectName="ImageBasedModellingEdu" targetName="mrf" />
+      <config projectName="ImageBasedModellingEdu" targetName="task2_test_camera_model" />
+      <config projectName="ImageBasedModellingEdu" targetName="task2_test_fundamental_ransac" />
+      <config projectName="ImageBasedModellingEdu" targetName="class5_scene2pset_multi_views" />
+      <config projectName="ImageBasedModellingEdu" targetName="surface" />
+      <config projectName="ImageBasedModellingEdu" targetName="coldet" />
+      <config projectName="ImageBasedModellingEdu" targetName="class5_scene2pset_single_view" />
+      <config projectName="ImageBasedModellingEdu" targetName="task3_test_ba" />
+      <config projectName="ImageBasedModellingEdu" targetName="core" />
+      <config projectName="ImageBasedModellingEdu" targetName="task2_test_math_basic" />
+      <config projectName="ImageBasedModellingEdu" targetName="task3_test_jacobian" />
+      <config projectName="ImageBasedModellingEdu" targetName="task2_test_fundamental_8_point" />
+      <config projectName="ImageBasedModellingEdu" targetName="mvs" />
+      <config projectName="ImageBasedModellingEdu" targetName="task3_test_p3p" />
+      <config projectName="ImageBasedModellingEdu" targetName="texturing" />
+      <config projectName="ImageBasedModellingEdu" targetName="task7_texturing" />
+      <config projectName="ImageBasedModellingEdu" targetName="task7_mesh_clean" />
+      <config projectName="ImageBasedModellingEdu" targetName="task6_surface_reconstruction" />
+      <config projectName="ImageBasedModellingEdu" targetName="util" />
+      <config projectName="ImageBasedModellingEdu" targetName="task2_test_pose_from_fundamental" />
+      <config projectName="ImageBasedModellingEdu" targetName="task3_test_lm_optimize" />
+      <config projectName="ImageBasedModellingEdu" targetName="task3_test_triangle" />
+      <config projectName="ImageBasedModellingEdu" targetName="task5_dmrecon_single_view" />
+      <config projectName="ImageBasedModellingEdu" targetName="sfm" />
+      <config projectName="ImageBasedModellingEdu" targetName="task4_incremental_sfm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b853f24-1b1e-4a70-b267-51ef1a4fd9bf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/task4/class4_test_incremental_sfm.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="269" column="29" selection-start-line="269" selection-start-column="29" selection-end-line="269" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task5/class5_dmrecon_multi_views.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-426">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task6/class6_surface_reconstruction.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-422">
+              <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task7/class7_meshclean.cc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task5/class5_dmrecon_single_view.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task5/class5_scene2pset_multi_views.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="170" column="60" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/task5/class5_scene2pset_single_view.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="370" column="33" selection-start-line="370" selection-start-column="33" selection-end-line="370" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>match</find>
+      <find>main</find>
+      <find>Too</find>
+      <find>Error</find>
+      <find>Floating</find>
+      <find>sample scale</find>
+      <find>Isosurface does not contain any vertices, exiting.</find>
+      <find>view_1_id</find>
+      <find>init_pair_result</find>
+      <find>cout</find>
+      <find>writing</find>
+      <find>Computing image features...</find>
+      <find>Count</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/examples/data/myproject_scene</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/build/eigen-git-mirror" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/surface/sample_io.cc" />
+        <option value="$PROJECT_DIR$/examples/task5/class5_scene2pset_multi_views.cc" />
+        <option value="$PROJECT_DIR$/examples/task5/class5_dmrecon_single_view.cc" />
+        <option value="$PROJECT_DIR$/examples/task5/class5_scene2pset_single_view.cc" />
+        <option value="$PROJECT_DIR$/examples/task4/class4_test_incremental_sfm.cc" />
+        <option value="$PROJECT_DIR$/examples/task3/class3_test_jacobian.cc" />
+        <option value="$PROJECT_DIR$/examples/task3/class3_test_lm_optimize.cc" />
+        <option value="$PROJECT_DIR$/examples/task3/class3_test_p3p.cc" />
+        <option value="$PROJECT_DIR$/examples/task3/class3_test_triangle.cc" />
+        <option value="$PROJECT_DIR$/examples/task2/calss2_test_pose_from_fundamental.cc" />
+        <option value="$PROJECT_DIR$/examples/task2/class2_test_camera.cc" />
+        <option value="$PROJECT_DIR$/examples/task2/class2_test_fundamental_8_point.cc" />
+        <option value="$PROJECT_DIR$/examples/task2/class2_test_fundamental_ransac.cc" />
+        <option value="$PROJECT_DIR$/examples/task2/class2_test_math_basic.cc" />
+        <option value="$PROJECT_DIR$/examples/task1/class1_test_features.cc" />
+        <option value="$PROJECT_DIR$/examples/task1/class1_test_matching.cc" />
+        <option value="$PROJECT_DIR$/examples/task1/visualizer.cc" />
+        <option value="$PROJECT_DIR$/examples/task1/visualizer.h" />
+        <option value="$PROJECT_DIR$/examples/task6/class6_surface_reconstruction.cc" />
+        <option value="$PROJECT_DIR$/examples/task7/class7_texrecon.cpp" />
+        <option value="$PROJECT_DIR$/examples/task7/class7_meshclean.cc" />
+        <option value="$PROJECT_DIR$/examples/task7/arguments.cpp" />
+        <option value="$PROJECT_DIR$/examples/task7/arguments.h" />
+        <option value="$PROJECT_DIR$/features/defines.h" />
+        <option value="$PROJECT_DIR$/examples/task5/class5_dmrecon_multi_views.cc" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="task5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="task6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageBasedModellingEdu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageBasedModellingEduV1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task7_texturing">
+    <configuration name="class5_scene2pset_multi_views" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject21_scene ./examples/data/myproject21_scene/multi_dense_myproject21.ply 2 0" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="class5_scene2pset_multi_views" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="class5_scene2pset_multi_views">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class5_scene2pset_single_view" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject21_scene ./examples/data/myproject21_scene/single_dense_myproject21.ply 2 0" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="class5_scene2pset_single_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="class5_scene2pset_single_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coldet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="coldet" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="core" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="features" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="features" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gco" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="gco" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mrf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="mrf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="mvs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sfm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="sfm" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="surface" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="surface" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1_test_features" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject/13.JPG" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task1_test_features" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task1_test_features">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1_test_matching" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject/2.JPG ./examples/data/myproject/3.JPG" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task1_test_matching" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task1_test_matching">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_test_camera_model" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task2_test_camera_model" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task2_test_camera_model">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_test_fundamental_8_point" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task2_test_fundamental_8_point" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task2_test_fundamental_8_point">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_test_fundamental_ransac" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task2_test_fundamental_ransac" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task2_test_fundamental_ransac">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_test_math_basic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task2_test_math_basic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task2_test_math_basic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_test_pose_from_fundamental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task2_test_pose_from_fundamental" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task2_test_pose_from_fundamental">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_test_ba" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task3_test_ba" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task3_test_ba">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_test_jacobian" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task3_test_jacobian" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task3_test_jacobian">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_test_lm_optimize" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task3_test_lm_optimize" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task3_test_lm_optimize">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_test_p3p" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task3_test_p3p" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task3_test_p3p">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_test_triangle" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task3_test_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task3_test_triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4_incremental_sfm" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject21 ./examples/data/myproject21_scene" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task4_incremental_sfm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task4_incremental_sfm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5_dmrecon_multi_views" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject21_scene 2 0 ./examples/data/myproject21_scene 2 2 ./examples/data/myproject21_scene 2 4 ./examples/data/myproject21_scene 2 6 ./examples/data/myproject21_scene 2 8 ./examples/data/myproject21_scene 2 10 ./examples/data/myproject21_scene 2 12 ./examples/data/myproject21_scene 2 14 ./examples/data/myproject21_scene 2 16 ./examples/data/myproject21_scene 2 18 ./examples/data/myproject21_scene 2 20 ./examples/data/myproject21_scene 2 22 ./examples/data/myproject21_scene 2 24 ./examples/data/myproject21_scene 2 26 ./examples/data/myproject21_scene 2 28 ./examples/data/myproject21_scene 2 30" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task5_dmrecon_multi_views" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task5_dmrecon_multi_views">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5_dmrecon_single_view" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject21_scene 2 0" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task5_dmrecon_single_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task5_dmrecon_single_view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6_surface_reconstruction" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject3_scene/dense_myproject3.ply ./examples/data/myproject3_scene/mesh_myproject3.ply" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task6_surface_reconstruction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task6_surface_reconstruction">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task7_mesh_clean" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./examples/data/myproject3_scene/dense_myproject3.ply ./examples/data/myproject3_scene/mesh_myproject3.ply " WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task7_mesh_clean" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task7_mesh_clean">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task7_texturing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="task7_texturing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageBasedModellingEdu" RUN_TARGET_NAME="task7_texturing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="texturing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="texturing" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="util" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageBasedModellingEdu" TARGET_NAME="util" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.coldet" />
+      <item itemvalue="Application.gco" />
+      <item itemvalue="Application.mrf" />
+      <item itemvalue="Application.core" />
+      <item itemvalue="Application.task1_test_features" />
+      <item itemvalue="Application.task1_test_matching" />
+      <item itemvalue="Application.task2_test_camera_model" />
+      <item itemvalue="Application.task2_test_fundamental_8_point" />
+      <item itemvalue="Application.task2_test_fundamental_ransac" />
+      <item itemvalue="Application.task2_test_math_basic" />
+      <item itemvalue="Application.task2_test_pose_from_fundamental" />
+      <item itemvalue="Application.task3_test_ba" />
+      <item itemvalue="Application.task3_test_jacobian" />
+      <item itemvalue="Application.task3_test_lm_optimize" />
+      <item itemvalue="Application.task3_test_p3p" />
+      <item itemvalue="Application.task3_test_triangle" />
+      <item itemvalue="Application.task4_incremental_sfm" />
+      <item itemvalue="Application.class5_scene2pset_multi_views" />
+      <item itemvalue="Application.class5_scene2pset_single_view" />
+      <item itemvalue="Application.task5_dmrecon_multi_views" />
+      <item itemvalue="Application.task5_dmrecon_single_view" />
+      <item itemvalue="Application.task6_surface_reconstruction" />
+      <item itemvalue="Application.task7_mesh_clean" />
+      <item itemvalue="Application.task7_texturing" />
+      <item itemvalue="Application.features" />
+      <item itemvalue="Application.mvs" />
+      <item itemvalue="Application.sfm" />
+      <item itemvalue="Application.surface" />
+      <item itemvalue="Application.texturing" />
+      <item itemvalue="Application.util" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b853f24-1b1e-4a70-b267-51ef1a4fd9bf" name="Default Changelist" comment="" />
+      <created>1551183981142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551183981142</updated>
+      <workItem from="1551183983574" duration="462000" />
+      <workItem from="1551186238604" duration="402000" />
+      <workItem from="1551189735025" duration="418000" />
+      <workItem from="1553852758278" duration="1184000" />
+      <workItem from="1553854668601" duration="4294000" />
+      <workItem from="1553923947396" duration="22913000" />
+      <workItem from="1555052410729" duration="143000" />
+      <workItem from="1557325789509" duration="13961000" />
+      <workItem from="1557587462805" duration="2884000" />
+      <workItem from="1557641648890" duration="8238000" />
+      <workItem from="1560860691383" duration="13904000" />
+      <workItem from="1560948807685" duration="22047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90850000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.51325303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.5950495" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.369863" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946752" weight="0.5950495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4150685" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.369863" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/task3/test_ba.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/class3_test_triangle.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/class3_test_p3p.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/class3_test_lm_optimize.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/class3_test_jacobian.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task3/class3_test_bundle_adjustment.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task2/calss2_test_pose_from_fundamental.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task2/class2_test_camera.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task2/class2_test_fundamental_8_point.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task2/class2_test_fundamental_ransac.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task2/class2_test_math_basic.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task1/class1_test_features.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task1/class1_test_matching.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task1/visualizer.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task1/visualizer.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task6/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task7/class7_texrecon.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task7/arguments.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task7/arguments.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/cascade_hashing.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/defines.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/exhaustive_matching.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/matching.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/matching.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/matching_base.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/nearest_neighbor.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/nearest_neighbor.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/sift.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/sift.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/surf.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/accum.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/algo.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/bspline.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/defines.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/aligned_allocator.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/aligned_memory.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/arguments.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/Makefile.dep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/timer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/file_system.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task5/class5_scene2pset_multi_views.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="170" column="60" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task5/class5_scene2pset_single_view.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="370" column="33" selection-start-line="370" selection-start-column="33" selection-end-line="370" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task5/class5_dmrecon_single_view.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task5/class5_dmrecon_multi_views.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task6/class6_surface_reconstruction.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task7/class7_meshclean.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/task4/class4_test_incremental_sfm.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="269" column="29" selection-start-line="269" selection-start-column="29" selection-end-line="269" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

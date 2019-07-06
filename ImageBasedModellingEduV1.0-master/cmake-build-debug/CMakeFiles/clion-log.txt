@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/fairy/Desktop/ImageBasedModellingEduV1.0-master
+-- Eigen found (include: /usr/local/include/eigen3, version: 3.3.90)
+PNG found: /usr/local/lib/libpng.dylib;/usr/lib/libz.dylib
+JPEG found: /usr/local/lib/libjpeg.dylib
+TIFF found: /usr/local/lib/libtiff.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/fairy/Desktop/ImageBasedModellingEduV1.0-master/cmake-build-debug
